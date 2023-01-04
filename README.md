@@ -20,73 +20,72 @@
 ## awesome-ukrainian-bioinformatics-words
 
 ### Візуалізація
-| Термін | Переклад | Не вживати | Значення |
-| ------ | -------- | ---------- | -------- |
+| Термін       | Переклад | Не вживати | Значення |
+| ------------ | -------- | ---------- | -------- |
 | Heatmap      | s        | s          | s        |
-| Scatter plot      | s        | s          | s        |
+| Scatter plot | s        | s          | s        |
 
 ---
 
 ### Загальні терміни
-| Термін | Переклад | Не вживати | Значення |
-| ------ | -------- | ---------- | -------- |
-| Adjacency matrix      | s        | s          | s        |
-| Cross-validation      | s        | s          | s        |
-| Deconvolution      | s        | s          | s        |
-| DNA probe      | s        | s          | s        |
-| Drug design      | s        | s          | s        |
-| Network; graph      | s        | s          | s        |
-| Network vertex; node      | s        | s          | s        |
-| Network edge      | s        | s          | s        |
-| Hit compound      | s        | s          | s        |
-| 
-Lead compound      | s        | s          | s        |
-| Pathway      | s        | s          | s        |
-| Pharmacogenetics      | s        | s          | s        |
-| Sequencing library      | s        | s          | s        |
-| Weight matrix      | s        | s          | s        |
+| Термін               | Переклад | Не вживати | Значення |
+| -------------------- | -------- | ---------- | -------- |
+| Adjacency matrix     | s        | s          | s        |
+| Cross-validation     | s        | s          | s        |
+| Deconvolution        | s        | s          | s        |
+| DNA probe            | s        | s          | s        |
+| Drug design          | s        | s          | s        |
+| Network; graph       | s        | s          | s        |
+| Network vertex; node | s        | s          | s        |
+| Network edge         | s        | s          | s        |
+| Hit compound         | s        | s          | s        |
+| Lead compound        | s        | s          | s        |
+| Pathway              | s        | s          | s        |
+| Pharmacogenetics     | s        | s          | s        |
+| Sequencing library   | s        | s          | s        |
+| Weight matrix        | s        | s          | s        |
 
 ---
 
 ### Загальна генетика
-| Термін | Переклад | Не вживати | Значення |
-| ------ | -------- | ---------- | -------- |
-| Fusion protein      | s        | s          | s        |
-| Genome-wide association study; GWAS      | s        | s          | s        |
-| Open reading frame      | s        | s          | s        |
-| Polygenic inheritance      | s        | s          | s        |
-| Reference genome      | s        | s          | s        |
-| Single nicleotide variant; single nucleotide polymorphism      | s        | s          | s        |
-| Benign variant      | s        | s          | s        |
-| Pathogenic variant      | s        | s          | s        |
-| Variant of uncertain significance; VoUS      | s        | s          | s        |
+| Термін                                                    | Переклад | Не вживати | Значення |
+| --------------------------------------------------------- | -------- | ---------- | -------- |
+| Fusion protein                                            | s        | s          | s        |
+| Genome-wide association study; GWAS                       | s        | s          | s        |
+| Open reading frame                                        | s        | s          | s        |
+| Polygenic inheritance                                     | s        | s          | s        |
+| Reference genome                                          | s        | s          | s        |
+| Single nicleotide variant; single nucleotide polymorphism | s        | s          | s        |
+| Benign variant                                            | s        | s          | s        |
+| Pathogenic variant                                        | s        | s          | s        |
+| Variant of uncertain significance; VoUS                   | s        | s          | s        |
 
 ---
 
 ### Експерименти та методи
-| Термін | Переклад | Не вживати | Значення |
-| ------ | -------- | ---------- | -------- |
-| Assay      | s        | s          | s        |
-| High-throughput method      | s        | s          | s        |
-| In situ hybridization      | s        | s          | s        |
-| Microarray      | s        | s          | s        |
-| Sequence alignment      | s        | s          | s        |
-| Sequencing: bulk RNA-seq; total RNA-seq      | s        | s          | s        |
-| Sequencing: single-cell RNA-seq; scRNA-seq      | s        | s          | s        |
-| Yeast- 2-hybrid system      | s        | s          | s        |
+| Термін                                     | Переклад | Не вживати | Значення |
+| ------------------------------------------ | -------- | ---------- | -------- |
+| Assay                                      | s        | s          | s        |
+| High-throughput method                     | s        | s          | s        |
+| In situ hybridization                      | s        | s          | s        |
+| Microarray                                 | s        | s          | s        |
+| Sequence alignment                         | s        | s          | s        |
+| Sequencing: bulk RNA-seq; total RNA-seq    | s        | s          | s        |
+| Sequencing: single-cell RNA-seq; scRNA-seq | s        | s          | s        |
+| Yeast- 2-hybrid system                     | s        | s          | s        |
 
 ---
 
 ### Оміки
-| Термін | Переклад | Не вживати | Значення |
-| ------ | -------- | ---------- | -------- |
-| Epigenomics      | s        | s          | s        |
-| Genomics      | s        | s          | s        |
-| Interactome      | s        | s          | s        |
+| Термін          | Переклад | Не вживати | Значення |
+| --------------- | -------- | ---------- | -------- |
+| Epigenomics     | s        | s          | s        |
+| Genomics        | s        | s          | s        |
+| Interactome     | s        | s          | s        |
 | Lipidomics      | s        | s          | s        |
-| Metabolomics     | s        | s          | s        |
-| Omics      | s        | s          | s        |
-| Transcriptomics      | s        | s          | s        |
+| Metabolomics    | s        | s          | s        |
+| Omics           | s        | s          | s        |
+| Transcriptomics | s        | s          | s        |
 
 
 
