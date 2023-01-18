@@ -125,4 +125,5 @@ How to use: type Ctrl+F (Command+F on Mac) and start typing the the word you are
 * [Біоінформатика в ХНУ](http://rbecs.karazin.ua/wp-content/uploads/fbme/153mag/%D0%92%D0%916_%D0%91%D1%96%D0%BE%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0.pdf)
 * [ХНУРЕ](https://openarchive.nure.ua/bitstream/document/16951/1/2021_M_ShI_Baranov_YeO.pdf)
 * [ЛУ](https://bioweb.lnu.edu.ua/course/bioinformatyka)
+* [Курс біоінформатики: Львів-Харків](http://lifesciencescourse.org/kurs-bioinformatyka)
 
