@@ -95,8 +95,8 @@ How to use: type Ctrl+F (Command+F on Mac) and start typing the the word you are
 | RNA interference                      | РНК-інтерференція         | -          | -        | -        |
 | Microarray                                 | Мікрочип        | -          | -        | -        |
 | Sequencing                         | Секвенування        | Сіквенсінг          | Визначення первинної послідовності макромолекул        | "Секвенування РНК показало, що  |
-| Regulation: downregulation                     | Знижена експресія       | -          | -        | -        |
-| Regulation: upregulation                     | Підвищена експресія        | -          | -        | -        |
+| Regulation: downregulation                     | Знижена експресія; пригнічені гени | -          | -        | -        |
+| Regulation: upregulation                     | Підвищена експресія; Надекспресовані гени | -          | -        | -        |
 | Sequencing: bulk RNA-seq; total RNA-seq    | Секвенування РНК        | -          | -        | -        |
 | Sequencing: single-cell RNA-seq; scRNA-seq | РНК-секвенування поодиноких клітин        | -          | -        | -        |
 | Two-hybrid screening                     | Двогибридний аналіз        | -          | -        | -        |
